@@ -87,7 +87,7 @@ def style_base_layout():
                 transition: transform 0.25s ease-in-out !important;
             }
 
-            button[kind="Secondary"]{
+            button[kind="secondary"]{
                 border-radius: 1.5rem !important;
                 background: #EB459E !important;
                 color: white !important;
