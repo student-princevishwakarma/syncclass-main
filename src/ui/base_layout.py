@@ -52,9 +52,9 @@ def style_base_layout():
 
         /* Hide Tob Bar of streamlit */
             
-            #MainMenu, footer, header {
-                visibility: hidden !important;
-            }
+            # #MainMenu, footer, header {
+            #     visibility: hidden !important;
+            # }
 
             .block-container {
                 padding-top: 1.5rem !important;
