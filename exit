@@ -1,0 +1,13 @@
+[33m16ca553[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m changing img asset (ibb link to cloudinary link)
+[33m3a8529d[m teacher manage subject (added subject list)
+[33ma19483b[m Finishing Touches
+[33m5ec5ba5[m View Attendance Records
+[33md39063f[m Attendance Prediction (Voice)
+[33m7ce3ddf[m Attendance Prediction (Image)
+[33m3d15b27[m Teacher Attendance Flow
+[33m6486dab[m Student Auth with FaceRecog & VoiceRecog +  Teacher Dashboard - Create Tabs, Manage Subjects, Share Subject Enrollment + Student Dashboard - Quick Enrolment using QR Code
+[33m295970f[m voice recognition pipeline
+[33m89fa667[m face recognition pipeline
+[33me3999fe[m teacher authentication
+[33ma5c8bdd[m streamlit setup + homescreen
+[33m10429c8[m Installing Requirements

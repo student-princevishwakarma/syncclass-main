@@ -4,7 +4,7 @@ import streamlit as st
 
 def header_home():
 
-    logo_url= "https://i.ibb.co/YB5JXxP8/logo-Smart-Attend.png"
+    logo_url= "https://res.cloudinary.com/frtasp0i/image/upload/v1787914103/logo_Smart_Attend.png"
 
     st.markdown(f"""
         <div style='display:flex; flex-direction:column; align-items:center; justify-content:center; margin-bottom:10px; margin-top:30px'>
@@ -18,7 +18,7 @@ def header_home():
     
 def header_dashboard():
 
-    logo_url= "https://i.ibb.co/YB5JXxP8/logo-Smart-Attend.png"
+    logo_url= "https://res.cloudinary.com/frtasp0i/image/upload/v1787914103/logo_Smart_Attend.png"
 
     st.markdown(f"""
         <div style='display:flex; align-items:center; justify-content:center; gap:10px;'>
